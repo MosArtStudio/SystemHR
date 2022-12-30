@@ -1,0 +1,37 @@
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C# CV\System HR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\C# CV\System HR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\C# CV\System HR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\SQLite-net.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\SQLitePCLRaw.core.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\SQLite-net.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Buffers.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Memory.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\Dapper.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\Dapper.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\C# CV\System HR\SystemHR\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml

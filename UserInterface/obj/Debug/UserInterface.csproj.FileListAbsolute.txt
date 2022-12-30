@@ -1,0 +1,66 @@
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.SuggestedBindingRedirects.cache
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\bin\Debug\SystemHR.exe.config
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\bin\Debug\SystemHR.exe
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\bin\Debug\SystemHR.pdb
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\bin\Debug\DataAccessLayer.dll
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\bin\Debug\DataAccessLayer.pdb
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.MainForm.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Properties.Resources.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.exe
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.pdb
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Contracts.ContractsForm.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeesForm.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeeAddForm.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Base.BaseAddEditForm.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Base.BaseForm.resources
+D:\Kurs C# - Budowanie kompletniej aplikacji C#\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeeEditForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SystemHR.exe.config
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SystemHR.exe
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SystemHR.pdb
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\DataAccessLayer.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\DataAccessLayer.pdb
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.SuggestedBindingRedirects.cache
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Base.BaseAddEditForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Base.BaseForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Contracts.ContractsForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeeAddForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeeEditForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeesForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.MainForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Properties.Resources.resources
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.exe
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.pdb
+D:\C# CV\System HR\SystemHR\UserInterface\obj\Debug\SystemHR.UserInterface.Forms.Employees.EmployeeHireForm.resources
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SQLite-net.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SQLitePCLRaw.core.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Buffers.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Memory.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Numerics.Vectors.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\SQLite-net.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Buffers.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Memory.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Numerics.Vectors.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\Dapper.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\Dapper.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EmployeeDataBase.db
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EntityFramework.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\DataAccessLayer.dll.config
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EntityFramework.xml
+D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EntityFramework.SqlServer.xml
