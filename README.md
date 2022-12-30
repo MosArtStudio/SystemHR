@@ -10,6 +10,8 @@ Database of Employees are included (SQLite).
 
 # Have Fun
 
+Created by R. Mosurek, March 2022.
+IG - @radoslawmosart
 
 
 
