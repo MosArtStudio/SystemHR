@@ -163,36 +163,6 @@ namespace SystemHR.UserInterface.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap PracownicyImage {
-            get {
-                object obj = ResourceManager.GetObject("PracownicyImage", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap PracownicyImage1 {
-            get {
-                object obj = ResourceManager.GetObject("PracownicyImage1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap PracownicyImage2 {
-            get {
-                object obj = ResourceManager.GetObject("PracownicyImage2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap refresh_24 {
             get {
                 object obj = ResourceManager.GetObject("refresh_24", resourceCulture);

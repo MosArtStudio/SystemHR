@@ -58,7 +58,6 @@ D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Numerics.Vectors.xml
 D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\Dapper.dll
 D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\Dapper.xml
-D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EmployeeDataBase.db
 D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EntityFramework.dll
 D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\EntityFramework.SqlServer.dll
 D:\C# CV\System HR\SystemHR\UserInterface\bin\Debug\DataAccessLayer.dll.config

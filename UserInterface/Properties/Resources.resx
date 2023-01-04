@@ -123,10 +123,7 @@
   </data>
   <data name="Positions_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Positions_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PracownicyImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PracownicyImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  </data>  
   <data name="save_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\save_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -142,9 +139,6 @@
   <data name="cancel_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cancel_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PracownicyImage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PracownicyImage1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="employee_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\employee_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -153,10 +147,7 @@
   </data>
   <data name="delete_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\delete_24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PracownicyImage2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PracownicyImage2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  </data>  
   <data name="dissmis_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dissmis_24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
