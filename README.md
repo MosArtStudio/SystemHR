@@ -7,6 +7,7 @@ Project are using:
   - sqlite-net-pcl.1.8.116;
   
 To run application go to SystemHR\UserInterface\bin\Debug\SystemHR.exe 
+
 Database of Employees are included (SQLite).
 
 # Have Fun
