@@ -23,7 +23,6 @@ namespace SystemHR.UserInterface.Forms.Employees
         #region Fields
         private static EmployeesForm _instance = null;
         private EmployeeData employeeData = new EmployeeData();
-        //public static IList<EmployeeVievModel> fakeEmployees;
 
         #endregion
 
@@ -60,7 +59,6 @@ namespace SystemHR.UserInterface.Forms.Employees
         {
 
             InitializeComponent();
-            //EmployeeData.employeesList = GetFakeEmployees();
             PrepareEmployeesData();
         }
         #endregion
@@ -86,20 +84,7 @@ namespace SystemHR.UserInterface.Forms.Employees
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
-            EmployeeAddForm frm = new EmployeeAddForm();
-            frm.ReloadEmployees += (s, ea) =>
-            {
-                EmployeeEventArgs eventArgs = ea as EmployeeEventArgs;
-                if (eventArgs != null)
-                {
-                    EmployeeModel employee = eventArgs.Employee;
-                    employeeModelBindingSource.Add(employee);
-
-                    dgvEmployees.ClearSelection();
-                    dgvEmployees.Rows[dgvEmployees.Rows.Count - 1].Selected = true;
-
-                }
-            };
+            EmployeeAddForm frm = new EmployeeAddForm();          
             frm.ShowDialog();
             PrepareEmployeesData();
         }
@@ -200,7 +185,7 @@ namespace SystemHR.UserInterface.Forms.Employees
             employeeModel.Position.PositionName = "";
 
             DBInfo temp = new DBInfo(employeeModel);
-            using (var db = new SQLiteConnection(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db"))
+            using (var db = new SQLiteConnection(employeeData.DBpath))
             {
                 db.Update(temp);
                 db.Close();

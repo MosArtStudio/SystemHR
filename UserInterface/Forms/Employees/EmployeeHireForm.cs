@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +22,9 @@ namespace SystemHR.UserInterface.Forms.Employees
         #region Fields
         private EmployeeModel employee;        
         private int editingEmployeeId;
+        public string DBpath = Path.Combine(
+            Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName,
+            "dataBaseHR.db");
         #endregion
 
         #region Constructor
@@ -98,7 +102,7 @@ namespace SystemHR.UserInterface.Forms.Employees
             EmployeeData.employeesList.Add(employee);
 
             DBInfo temp = new DBInfo(employee);
-            using (var db = new SQLiteConnection(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db"))
+            using (var db = new SQLiteConnection(DBpath))
             {
                 db.Update(temp);
                 db.Close();

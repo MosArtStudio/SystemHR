@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -97,7 +98,7 @@ namespace SystemHR.UserInterface.Forms.Contracts
             employeeModel.Position.PositionName = "";
 
             DBInfo temp = new DBInfo(employeeModel);
-            using (var db = new SQLiteConnection(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db"))
+            using (var db = new SQLiteConnection(employeeData.DBpath))
             {
                 db.Update(temp);
                 db.Close();

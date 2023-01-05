@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 using SystemHR.DataAccessLayer.Models;
 using SQLite;
 using Dapper;
-//using System.Data.SQLite;
 using System.Data;
 using SystemHR.DataAccessLayer.Models.Dictonaries;
+using System.IO;
+using System.Reflection;
 
 namespace SystemHR.DataAccessLayer.Data
 {
@@ -16,15 +17,19 @@ namespace SystemHR.DataAccessLayer.Data
     {
         public static IList<EmployeeModel> employeesList = new List<EmployeeModel>();
         private static SQLiteConnection db;
+        //private string p = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName;
+        public string DBpath = Path.Combine(
+            Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName, 
+            "dataBaseHR.db");
         public EmployeeData()
         {        
-            if (System.IO.File.Exists(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db"))
+            if (System.IO.File.Exists(DBpath))
             {
 
             }
             else
             {
-                using (db = new SQLiteConnection(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db"))
+                using (db = new SQLiteConnection(DBpath))
                 {
                     db.CreateTable<DBInfo>();
                     db.Close();
@@ -35,7 +40,7 @@ namespace SystemHR.DataAccessLayer.Data
 
         public void LoadDataFromDatabase()
         {
-            using (db = new SQLiteConnection(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db"))
+            using (db = new SQLiteConnection(DBpath))
             {
                 var list = db.Query<DBEmployeeModel>("select * from DBInfo");
                 employeesList = MapDBEmployeeModelToEmployeeModel(list);

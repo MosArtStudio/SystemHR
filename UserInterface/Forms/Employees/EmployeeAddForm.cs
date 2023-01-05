@@ -16,14 +16,16 @@ using SystemHR.UserInterface.Forms.Base;
 using SystemHR.UserInterface.Forms.Helpers;
 using SystemHR.DataAccessLayer.Data;
 using SQLite;
+using System.IO;
 
 namespace SystemHR.UserInterface.Forms.Employees
 {
     public partial class EmployeeAddForm : BaseAddEditForm
     {
         #region Fields 
-        public EventHandler ReloadEmployees;
-
+        public string DBpath = Path.Combine(
+            Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName,
+            "dataBaseHR.db");
         #endregion
 
         #region Constuctor
@@ -211,7 +213,7 @@ namespace SystemHR.UserInterface.Forms.Employees
                 EmployeeData.employeesList.Add(employee);
 
                 DBInfo temp = new DBInfo(employee);
-                var db = new SQLiteConnection(@"D:\C# CV\System HR\SystemHR\dataBaseHR.db");
+                var db = new SQLiteConnection(DBpath);
                 db.Insert(temp);
                 db.Close();
 
